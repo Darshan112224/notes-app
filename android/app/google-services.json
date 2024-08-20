@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399380952370",
+    "project_id": "digital-580a8",
+    "storage_bucket": "digital-580a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399380952370:android:4470ae92b43cc24039132b",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOQD6EagFg30CaUA4N42Cw26sKj7EOq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
